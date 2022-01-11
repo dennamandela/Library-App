@@ -1,0 +1,20 @@
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Beranda.resources
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.FormLogin.resources
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\bin\Debug\PeminjamanBuku.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\bin\Debug\PeminjamanBuku.xml
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.exe
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.xml
+C:\Users\HP\AppData\Local\Temporary Projects\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.FormLogin.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Beranda.resources
