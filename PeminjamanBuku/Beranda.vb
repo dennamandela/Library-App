@@ -10,4 +10,12 @@
             End
         End If
     End Sub
+
+    Private Sub FormAnggotaToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles FormAnggotaToolStripMenuItem.Click
+        FormAnggota.Show()
+    End Sub
+
+    Private Sub FormBukuToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles FormBukuToolStripMenuItem.Click
+        FormBuku.Show()
+    End Sub
 End Class

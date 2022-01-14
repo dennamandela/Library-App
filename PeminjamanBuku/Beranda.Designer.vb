@@ -24,11 +24,11 @@ Partial Class Beranda
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.MasterToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.LaporanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FormAnggotaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FormBukuToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TransaksiPinjamToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.LaporanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
@@ -53,18 +53,6 @@ Partial Class Beranda
         Me.MasterToolStripMenuItem.Size = New System.Drawing.Size(55, 20)
         Me.MasterToolStripMenuItem.Text = "Master"
         '
-        'LaporanToolStripMenuItem
-        '
-        Me.LaporanToolStripMenuItem.Name = "LaporanToolStripMenuItem"
-        Me.LaporanToolStripMenuItem.Size = New System.Drawing.Size(62, 20)
-        Me.LaporanToolStripMenuItem.Text = "Laporan"
-        '
-        'LogoutToolStripMenuItem
-        '
-        Me.LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
-        Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(57, 20)
-        Me.LogoutToolStripMenuItem.Text = "Logout"
-        '
         'FormAnggotaToolStripMenuItem
         '
         Me.FormAnggotaToolStripMenuItem.Name = "FormAnggotaToolStripMenuItem"
@@ -82,6 +70,18 @@ Partial Class Beranda
         Me.TransaksiPinjamToolStripMenuItem.Name = "TransaksiPinjamToolStripMenuItem"
         Me.TransaksiPinjamToolStripMenuItem.Size = New System.Drawing.Size(161, 22)
         Me.TransaksiPinjamToolStripMenuItem.Text = "Transaksi Pinjam"
+        '
+        'LaporanToolStripMenuItem
+        '
+        Me.LaporanToolStripMenuItem.Name = "LaporanToolStripMenuItem"
+        Me.LaporanToolStripMenuItem.Size = New System.Drawing.Size(62, 20)
+        Me.LaporanToolStripMenuItem.Text = "Laporan"
+        '
+        'LogoutToolStripMenuItem
+        '
+        Me.LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
+        Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(57, 20)
+        Me.LogoutToolStripMenuItem.Text = "Logout"
         '
         'StatusStrip1
         '

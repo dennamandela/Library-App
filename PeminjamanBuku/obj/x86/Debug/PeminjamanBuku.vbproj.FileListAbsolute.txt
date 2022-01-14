@@ -18,3 +18,5 @@ C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\
 C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Resources.resources
 C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.vbproj.GenerateResource.Cache
 C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.Beranda.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.FormAnggota.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\PeminjamanBuku\PeminjamanBuku\obj\x86\Debug\PeminjamanBuku.FormBuku.resources

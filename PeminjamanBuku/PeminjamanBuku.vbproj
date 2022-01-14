@@ -78,6 +78,18 @@
     <Compile Include="Beranda.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormAnggota.Designer.vb">
+      <DependentUpon>FormAnggota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnggota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuku.Designer.vb">
+      <DependentUpon>FormBuku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormLogin.Designer.vb">
       <DependentUpon>FormLogin.vb</DependentUpon>
     </Compile>
@@ -104,6 +116,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Beranda.resx">
       <DependentUpon>Beranda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnggota.resx">
+      <DependentUpon>FormAnggota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuku.resx">
+      <DependentUpon>FormBuku.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLogin.resx">
       <DependentUpon>FormLogin.vb</DependentUpon>
