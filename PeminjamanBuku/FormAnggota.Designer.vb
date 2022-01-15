@@ -178,9 +178,9 @@ Partial Class FormAnggota
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(99, 235)
+        Me.DataGridView1.Location = New System.Drawing.Point(31, 228)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(439, 150)
+        Me.DataGridView1.Size = New System.Drawing.Size(649, 186)
         Me.DataGridView1.TabIndex = 16
         '
         'FormAnggota

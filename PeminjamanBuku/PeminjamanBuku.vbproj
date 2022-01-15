@@ -112,6 +112,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="TransaksiPinjam.Designer.vb">
+      <DependentUpon>TransaksiPinjam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiPinjam.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Beranda.resx">
@@ -131,6 +137,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiPinjam.resx">
+      <DependentUpon>TransaksiPinjam.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

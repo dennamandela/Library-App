@@ -18,4 +18,8 @@
     Private Sub FormBukuToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles FormBukuToolStripMenuItem.Click
         FormBuku.Show()
     End Sub
+
+    Private Sub TransaksiPinjamToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TransaksiPinjamToolStripMenuItem.Click
+        TransaksiPinjam.Show()
+    End Sub
 End Class

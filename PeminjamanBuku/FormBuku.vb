@@ -17,6 +17,8 @@ Public Class FormBuku
         TextBox6.Text = ""
         Button1.Enabled = True
         Button2.Enabled = True
+        Button3.Enabled = True
+        Button4.Enabled = True
     End Sub
 
     Private Sub FormBuku_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load

@@ -20,6 +20,8 @@ Public Class FormAnggota
         ComboBox1.Text = ""
         Button1.Enabled = True
         Button2.Enabled = True
+        Button3.Enabled = True
+        Button4.Enabled = True
     End Sub
 
     Private Sub FormAnggota_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
@@ -55,8 +57,7 @@ Public Class FormAnggota
 
     Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
         Call Koneksi()
-        Dim delete As String
-        delete = "delete from anggota where id_anggota = '" & TextBox1.Text & "'"
+        Dim delete As String = "delete from anggota where id_anggota = '" & TextBox1.Text & "'"
         cmd = New SqlCommand(delete, Conn)
         cmd.ExecuteNonQuery()
         MsgBox("Data Berhasil Terhapus", MsgBoxStyle.Information, "Informasi")
